@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("d7f556ab-b46d-41ac-863e-20a1cfb1f572")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("5f199d7a-1e29-49d0-9d70-ffc62b2c5e3e")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyFirstWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
